@@ -1,4 +1,0 @@
-repository "3DRPG@ygubgup@cloud.cn"
-  path "/"
-    br "/main"
-    co "/main"
